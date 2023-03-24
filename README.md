@@ -18,7 +18,7 @@
 ### Установка и запуск проекта:
 1. Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone https://github.com/SvetlanaLogvinova88/YaTube.git
+git clone https://github.com/SunnyInHouse/YaTube.git
 ```
 ```
 cd yatube
